@@ -1,7 +1,7 @@
 <div dir="rtl">
 
 <p align="center">
-  <img src="logo.png" >
+  <img src="logo.png" width="100px">
 </p>
 
 # ترم ۱ تجارت الکترونیک دانشگاه شیراز
