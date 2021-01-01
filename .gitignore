@@ -1,0 +1,21 @@
+# global ignore
+*.rar
+*.txt
+/Class Records/**
+
+# remove BI video and project files from source control
+# /99 - Semester 1/Business Intelligence/Class Records/**
+Business Intelligence/Project/**
+# Business Intelligence/Resources/Dashboard in a Day/**
+# Business Intelligence/Resources/Dashboard in a Day.rar
+Business Intelligence/Project/*
+
+# remove  video and project files from source control
+# 99 - Semester 1/ECommerce Technologies/Class Records
+
+EMarketing & EPayment/**
+ECommerce Technologies/**
+Business Intelligence/**
+
+
+
