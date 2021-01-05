@@ -1,6 +1,6 @@
 # global ignore
 *.rar
-*.txt
+# *.txt
 /Class Records/**
 
 # remove BI video and project files from source control
